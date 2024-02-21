@@ -1,2 +1,5 @@
 admin   admin@678!
 .......
+manager1   man@678!      24fb0fba939b841b24d50c09ce48abc3f4b22b47
+delv1   del@678!           eabc2975de7675c00627677fcfb825a48b1df4e1
+chef   chef@678!          1ddcd7b46d470071c288b76e109fa871349bda2f
